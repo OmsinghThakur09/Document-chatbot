@@ -1,0 +1,24 @@
+# .gitignore
+
+# API keys — NEVER commit
+.env
+
+# ChromaDB persisted data — too large for GitHub
+vectorstore/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+.venv/
