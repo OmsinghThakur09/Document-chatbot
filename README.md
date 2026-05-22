@@ -1,7 +1,7 @@
 # Document Q&A Chatbot
 > Ask any question about any PDF and get grounded, cited answers — built with RAG (Retrieval-Augmented Generation).
 
-🔗 **[Live Demo]([#](https://omsingh-document-chatbot.streamlit.app/))** · 👤 **[Om Sanjaysingh Bais](https://www.linkedin.com/in/omsingh-bais-77312b22a/)** · 📧 omthakur0718@gmail.com
+🔗 **[Live Demo](https://omsingh-document-chatbot.streamlit.app/)** · 👤 **[Om Sanjaysingh Bais](https://www.linkedin.com/in/omsingh-bais-77312b22a/)** · 📧 omthakur0718@gmail.com
 
 ---
 
